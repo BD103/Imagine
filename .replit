@@ -1,0 +1,22 @@
+run = "cargo run --release"
+entrypoint = "README.md"
+language = "nix"
+hidden = [
+    ".cargo",
+    "Cargo.lock",
+    "target",
+    "rustfmt.toml",
+    ".gitignore"
+]
+
+[packager]
+language = "rust"
+
+[packager.features]
+# packageSearch = true
+
+[nix]
+channel = "stable-21_11"
+
+[env]
+CARGO_HOME = "${HOME}/${REPL_SLUG}/.cargo"

@@ -4,7 +4,7 @@
 
 (Or basically just me messing around with [LodePNG](https://lib.rs/crates/lodepng) and [Termion](https://lib.rs/crates/termion).)
 
-![Imagine Logo](https://raw.githubusercontent.com/BD103/Imagine/main/examples/logo-scaled.png)
+![Imagine Logo](https://raw.githubusercontent.com/BD103/Imagine/main/examples/logo.png)
 
 ## Running
 

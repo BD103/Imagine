@@ -1,10 +1,8 @@
-# Imagine
+# Imagine ![Imagine Logo](https://raw.githubusercontent.com/BD103/Imagine/main/examples/logo.png)
 
 **A console-based pixel art creation tool.**
 
 (Or basically just me messing around with [LodePNG](https://lib.rs/crates/lodepng) and [Termion](https://lib.rs/crates/termion).)
-
-![Imagine Logo](https://raw.githubusercontent.com/BD103/Imagine/main/examples/logo.png)
 
 ## Running
 

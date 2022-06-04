@@ -1,6 +1,6 @@
 # Imagine
 
-<p align="center"><img src="/examples/logo-scaled.png" alt="Imagine Logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/BD103/Imagine/main/examples/logo-scaled.png" alt="Imagine Logo"></p>
 
 **A console-based pixel art creation tool.**
 

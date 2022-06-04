@@ -15,3 +15,6 @@ target/
 
 # Replit specific
 .cargo/
+
+# CLion
+.idea/
